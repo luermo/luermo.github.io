@@ -1,0 +1,3 @@
+User-agent: *
+#Allow: /
+Sitemap: http://programadorfreelance.cat/sitemap.xml
