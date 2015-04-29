@@ -28,7 +28,7 @@
               content="http://freelancedeveloper.es/assets/img/profile-picture.jpg">
         <link rel="author" href="https://plus.google.com/107839398563835088830"/>
         <link rel="publisher" href="https://plus.google.com/107839398563835088830"/>
-        
+
     </head>
     <body data-spy="scroll" data-target="#main-nav"><a href="https://plus.google.com/107839398563835088830?rel=author">Google</a>
         <!-- CSS -->
@@ -144,9 +144,9 @@
         </section>
         <!-- end about-me -->
 
-<?php include '../assets/modules/formation.php' ?>
-<?php include '../assets/modules/projects.php' ?>
-<?php include '../assets/modules/experience.php' ?>
+        <?php include '../assets/modules/formation.php' ?>
+        <?php include '../assets/modules/projects.php' ?>
+        <?php include '../assets/modules/experience.php' ?>
 
         <!-- contacts -->
         <section class="section contacts" id="contacto">
@@ -170,19 +170,21 @@
 
 
                     </div>
-                </section>
-                <!-- end contacts -->
-                <div class="google-map">
-                    <div class="map-canvas"></div>
                 </div>
-                <!-- footer -->
-                <footer class="footer">
-                    <p>Copyright 2013 <a href="http://www.webyo.es" style="color: white"> WebYo.es </a> All Rights Reserved.</p>
-                </footer>
-                <!-- end footer -->
-                
-                </div>
-                
+            </div>
+        </section>
+        <!-- end contacts -->
+        <div class="google-map">
+            <div class="map-canvas"></div>
+        </div>
+        <!-- footer -->
+        <footer class="footer">
+            <p>Copyright 2013 <a href="http://www.webyo.es" style="color: white"> WebYo.es </a> All Rights Reserved.</p>
+        </footer>
+        <!-- end footer -->
+
+    </div>
+
     <!-- END WRAPPER -->
 
     <!-- Javascript -->

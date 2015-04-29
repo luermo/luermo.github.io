@@ -141,105 +141,9 @@
         </section>
         <!-- end about-me -->
 
-<?php include 'assets/modules/formation.php' ?>
-<?php include 'assets/modules/projects.php' ?>
-<?php include 'assets/modules/experience.php' ?>
-                <!-- resume -->
-                <section class="section resume" id="experiencia">
-                    <div class="container">
-                        <h2 class="heading">EXPERIENCIA</h2>
-                        <ul class="timeline">
-                            <li class="year">2014</li>
-                            <li class="event">
-                                <h3 class="heading">CTO - Programador web senior</h3>
-                                <span class="month"><i class="icon icon-calendar"></i>Track One Service</span>
-                                <p>Como CTO mis principales tareas son:</p>
-                                <ul>
-                                    <li>Gestió del proyecto de software</li>
-                                    <li>Planificación de sistemas de información corporativos</li>
-                                    <li>Ingeniería de requisitos</li>
-                                    <li>Arquitectura empresarial de IT</li>
-                                    <li>Gestión de la seguridad en sistemas de información</li>
-                                </ul>
-                                <br>
-                                <p>Como Senior Software Developer, soy parte del equipo de desarrollo de la aplicación web principal.</p>
-                                <figure>
-                                    <img src="assets/img/skills1.png" alt="Skills" />
-                                </figure>
-                            </li>
-                            <li class="event">
-                                <h3 class="heading">Programador web</h3>
-                                <span class="month"><i class="icon icon-calendar"></i>Segway Green Tour</span>
-                                <p>Plataforma para el alquiler y reserva de tours con segwey por catalunya</p>
-                                <figure>
-                                    <img src="assets/img/skills1.png" alt="Skills" />
-                                </figure>
-                            </li>	
-                            <li class="year">2013</li>
-                            <li class="event">
-                                <h3 class="heading">CIO - Senior software developer </h3>
-                                <span class="month"><i class="icon icon-calendar"></i>Yourcoded</span>
-                                <p>Como CIO mis principales tareas son:</p>
-                                <ul>
-                                    <li>Gestión de proyectos de software</li>
-                                    <li>Planificación de sistemas de información corporativos</li>
-                                    <li>Ingeniería de requisitos</li>
-                                    <li>Arquitectura empresarial de IT</li>
-                                    <li>Gestión de la seguridad en sistemas de información</li>
-                                </ul>
-                                <br>
-                                <p>Como Senior Software Developer, soy parte del equipo de desarrollo de la aplicación web principal.</p>
-                                <figure>
-                                    <img src="assets/img/skills1.png" alt="Skills" />
-                                </figure>
-                            </li>
-                            <li class="event">
-                                <h3 class="heading">Analista-Programador</h3>
-                                <span class="month"><i class="icon icon-calendar"></i>Indra bmb</span>
-                                <p>Análisis, diseño y desarrollo de un sistema de gestión documental con J2EE, Spring Hibernate, JSf, Webservices.</p>
-                                <figure>
-                                    <img src="assets/img/skills2.png" alt="Skills" />
-                                </figure>
-                            </li>
-
-                            <li class="year">2011</li>
-                            <li class="event">
-                                <h3 class="heading">Investigación y desarrollo de aplicaciones informáticas</h3>
-                                <span class="month"><i class="icon icon-home"></i>Bit4id</span>
-                                <p>Empresa dedicada a la Identidad Digital. Mi principal función es la investigación y desarrollo de aplicaciones que interactúen con el usuario para mejorar y avanzar en la identidad digital.</p>
-                                <ul>
-                                    <li>Aplicaciones WEB con PHP y MySQL.</li>
-                                    <li>Aplicaciones en JAVA</li>
-                                    <li>Aplicaciones en C# y .NET.</li>
-                                    <li>PKI, firma electrónica, SmartCards y certificados digitales</li>
-                                    <li>Herramientas PKI (Openssl, OpenCA, CryptoAPI, BouncyCastle, ...)</li>
-                                </ul>						
-                            </li>
-                            <li class="event">
-                                <h3 class="heading">Lead programmer</h3>
-                                <span class="month"><i class="icon icon-home"></i>Grupo LuErMo</span>
-                                <p>Grupo colaborativo enfocado a la tecnologías de la información y la comunicación. Mis principales tareas son el análisis, gestión y desarrollo de aplicaciones WEB.</p>
-                                <figure>
-                                    <img src="assets/img/skills1.png" alt="Skills" />
-                                </figure>
-                                <figure>
-                                    <img src="assets/img/skills2.png" alt="Skills" />
-                                </figure>	
-                            </li>
-
-                            <li class="year">2008</li>
-                            <li class="event">
-                                <h3 class="heading">Una poco más</h3>
-                                <span class="month"><i class="icon icon-home"></i>Sony, Linak Actuadores ...</span>
-                                <ul>
-                                    <li>Administración y Logística</li>
-                                    <li>Responsable de Logística</li>
-                                    <li>...</li>
-                                </ul>
-                            </li>
-            </div>
-        </section>
-        <!-- end resume -->
+        <?php include 'assets/modules/formation.php' ?>
+        <?php include 'assets/modules/projects.php' ?>
+        <?php include 'assets/modules/experience.php' ?>
 
         <!-- contacts -->
         <section class="section contacts" id="contacto">
@@ -263,17 +167,20 @@
 
 
                     </div>
- </section>
-                <!-- end contacts -->
-                <div class="google-map">
-                    <div class="map-canvas"></div>
                 </div>
-                <!-- footer -->
-                <footer class="footer">
-                    <p>Copyright 2013 <a href="http://www.webyo.es" style="color: white"> WebYo.es </a> All Rights Reserved.</p>
-                </footer>
-                <!-- end footer -->
-                
+            </div>
+
+        </section>
+        <!-- end contacts -->
+        <div class="google-map">
+            <div class="map-canvas"></div>
+        </div>
+        <!-- footer -->
+        <footer class="footer">
+            <p>Copyright 2013 <a href="http://www.webyo.es" style="color: white"> WebYo.es </a> All Rights Reserved.</p>
+        </footer>
+        <!-- end footer -->
+    </div>
     <!-- END WRAPPER -->
 
     <!-- Javascript -->
@@ -286,20 +193,20 @@
     <script type="text/javascript" src="assets/js/jquery.localscroll-1.2.7-min.js"></script>	
     <script type="text/javascript" src="assets/js/mapsManresa.js"></script>
     <script>
-                            (function (i, s, o, g, r, a, m) {
-                                i['GoogleAnalyticsObject'] = r;
-                                i[r] = i[r] || function () {
-                                    (i[r].q = i[r].q || []).push(arguments)
-                                }, i[r].l = 1 * new Date();
-                                a = s.createElement(o),
-                                        m = s.getElementsByTagName(o)[0];
-                                a.async = 1;
-                                a.src = g;
-                                m.parentNode.insertBefore(a, m)
-                            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                            m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-                            ga('create', 'UA-48779081-1', 'freelancedeveloper.es');
-                            ga('send', 'pageview');
+                ga('create', 'UA-48779081-1', 'freelancedeveloper.es');
+                ga('send', 'pageview');
 
     </script>
     <!--Start of Zopim Live Chat Script-->
