@@ -14,8 +14,8 @@
 		if( $('.map-canvas').length > 0) {
 			
 			var geocoder = new google.maps.Geocoder();
-			var address = 'Palau Firal de Manresa. C/Castelladral, 5-7. 08243 Manresa, Barcelona, Spain';
-			var contentString = '<div class="map-detail"><strong>La meva oficina:</strong><p>' + address + '</p><p> 93 535 70 08</p></div>';
+			var address = 'barcelona';
+			var contentString = '<div class="map-detail"><strong>Mi lugar de trabajo:</strong><p>' + address + '</p><p> +34 656 828 020 </p></div>';
 			
 			geocoder.geocode({'address': address }, function(results, status) {
 				if(status == google.maps.GeocoderStatus.OK) { 
