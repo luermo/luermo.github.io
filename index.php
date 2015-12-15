@@ -2,7 +2,7 @@
 <html lang="es">
     <head>
         <meta charset="utf-8">
-        <title>Programador Freelance para emprenededores y Startups</title>
+        <title>Programador Freelance en Barcelona para emprenededores y Startups</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para emprendedores y Startups aplicando metodologías Lean y Agile">
         <meta name="author" content="webyo">
@@ -154,7 +154,7 @@
                 <div class="row contact-address">
                     <div class="well col-md-12">
                         <h3><span class="glyphicon glyphicon-user"></span> Eric Garcia Ordoñez</h3>
-                        <h4>Programador web Freelance</h4>
+                        <h4>Programador Freelance</h4>
                         <p>Palau Firal de Manresa BOX4.</p>
                         <p>C/ Castelladral, 5-7. 08243 Manresa, <strong>Barcelona</strong></p>
                         <a class="btn btn-primary  "  href="tel:+34656828020" target="_blank"  ><span class="glyphicon glyphicon-earphone"></span> +34 656 828 020</a>

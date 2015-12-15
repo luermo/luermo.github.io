@@ -68,7 +68,7 @@
                             <div class="project-item-info">
                                 <h3 class="sub-heading">segway green tour</h3>
                                 <p>Plataforma para el alquiler y reserva de tours con segwey por catalunya</p>
-                                <a href="http://www.segwaygreentour.com" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <a href="http://segway.webyo.es" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>
@@ -80,7 +80,7 @@
                             <div class="project-item-info">
                                 <h3 class="sub-heading">World Awaking</h3>
                                 <p>"Historias positivas que vale la pena compartir"</p>
-                                <a href="http://worldawaking.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <a href="http://upsoci.webyo.es/" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>

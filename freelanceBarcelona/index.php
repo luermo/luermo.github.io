@@ -2,13 +2,13 @@
 <html lang="es">
     <head>
         <meta charset="utf-8">
-        <title>Programador Freelance para emprenededores y Startups</title>
+        <title>Eric | Desarrollador Freelance</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para empresas y emprendedores aplicando metodologías Lean y Agile.">
         <meta name="author" content="webyo">
         <meta name="keywords" content="programador,freelance ,programación ,web , agile, lean, barcelona, Diseño, Marketing online, aplicaciones, Web, Movile, Apps, ios, android,aplicaciones nativas, barcelona y alrededores, bootstrap, php, symfony2, jquery">
         <meta name="google-site-verification" content="5_0j79Ns8bE4_3rznqhSGF0e4m3r3JzERMXhJjiUmM0" />
-
+<meta name="google-site-verification" content="3NIdMgSlOlL_ynJd15C-AEMuC62etXwZOVK5LLOpyjc" />
         <!-- facebookmetas -->
         <meta property="og:title" content="Programador Freelance para empresas y emprendedores">
         <meta property="og:description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para empresas y emprendedores aplicando metodologías Lean y Agile">
@@ -91,9 +91,9 @@
                         <img src="../assets/img/profile-picture.png" class="img-circle" alt="Profile Picture" />
                     </div>
                     <div class="col-md-7 ">
-                        <h1 class="hide">Programador Freelance para Emprendedores y Startups</h1>
+                        <h1 class="hide">Eric | Programador Freelance Barcelona</h1>
                         <p class="heading"><i class="fa fa-quote-left"></i> Mi meta es crear éxito <i class="fa fa-quote-right"></i></p>
-                        <p>Hola, soy Eric <br>Un programador de aplicaciones para emprendedores y startups</p>
+                        <p>Hola, soy Eric <br>Un programador de aplicaciones para empresas, startups y emprendedores</p>
                         <a href="#presentacion" class="btn btn-default btn-lg">Leer más</a><a href="#contacto" class="btn btn-primary btn-lg">Contacta conmigo</a>
                     </div>
 
@@ -157,9 +157,9 @@
                 <div class="row contact-address">
                     <div class="well col-md-12">
                         <h3><span class="glyphicon glyphicon-user"></span> Eric Garcia Ordoñez</h3>
-                        <h4>Programador web Freelance</h4>
-                        <p>Palau Firal de Manresa BOX4.</p>
-                        <p>C/ Castelladral, 5-7. 08243 Manresa, <strong>Barcelona</strong></p>
+                        <h4>Programador Freelance</h4>
+                        <p>Parque Tecnológico Barcelona Nord</p>
+                        <p>Marie Curie, s/n, 08042 Barcelona, <strong>Barcelona</strong></p>
                         <a class="btn btn-primary  "  href="tel:+34656828020" target="_blank"  ><span class="glyphicon glyphicon-earphone"></span> +34 656 828 020</a>
 
                         <a class="btn btn-primary  "  href="mailto:eric@webyo.es" title="email"  ><i class="glyphicon glyphicon-envelope"></i>  eric@webyo.es</a>
@@ -196,21 +196,16 @@
     <script type="text/javascript" src="../assets/js/jquery.scrollTo-1.4.3.1-min.js"></script>
     <script type="text/javascript" src="../assets/js/jquery.localscroll-1.2.7-min.js"></script>	
     <script type="text/javascript" src="../assets/js/mapsBCN.js"></script>
-    <script>
-                            (function (i, s, o, g, r, a, m) {
-                                i['GoogleAnalyticsObject'] = r;
-                                i[r] = i[r] || function () {
-                                    (i[r].q = i[r].q || []).push(arguments)
-                                }, i[r].l = 1 * new Date();
-                                a = s.createElement(o),
-                                        m = s.getElementsByTagName(o)[0];
-                                a.async = 1;
-                                a.src = g;
-                                m.parentNode.insertBefore(a, m)
-                            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-                            ga('create', 'UA-48779081-1', 'freelancedeveloper.es');
-                            ga('send', 'pageview');
+  ga('create', 'UA-62675390-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 
     </script>
     <!--Start of Zopim Live Chat Script-->
