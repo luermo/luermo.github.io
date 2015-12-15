@@ -88,7 +88,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5 ">
-                        <img src="../assets/img/profile-picture.png" class="img-circle" alt="Profile Picture" />
+                        <img src="../assets/img/profile-picture.png" class="img-circle img-responsive" alt="Profile Picture" />
                     </div>
                     <div class="col-md-7 ">
                         <h1 class="hide">Eric | Programador Freelance Barcelona</h1>
