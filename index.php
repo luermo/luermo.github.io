@@ -47,6 +47,7 @@
         <link rel="icon" href="assets/ico/favicon.png" type="image/png" />
         <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <meta name="google-site-verification" content="NWr1EbkYX8RpF0wuK5gEVYiXDfpkO3oIh0MmKHPkY3U" />
+		<script>var v1 = "info";var v2 = "@";var v3 = "webyo.es";var mail = v1 + v2 + v3;</script>
     </head>
 <body data-spy="scroll" data-target="#main-nav">
     <!-- WRAPPER -->
@@ -158,8 +159,8 @@
                         <p>Palau Firal de Manresa BOX4.</p>
                         <p>C/ Castelladral, 5-7. 08243 Manresa, <strong>Barcelona</strong></p>
                         <a class="btn btn-primary  "  href="tel:+34656828020" target="_blank"  ><span class="glyphicon glyphicon-earphone"></span> +34 656 828 020</a>
-
-                        <a class="btn btn-primary  "  href="mailto:eric@webyo.es" title="email"  ><i class="glyphicon glyphicon-envelope"></i>  eric@webyo.es</a>
+						
+						<script>document.write('<a class="btn btn-primary  "  href="mailto:'+mail+'" title="email"  ><i class="glyphicon glyphicon-envelope"></i>'+mail+'</a>');</script>
 
                         <a class="btn btn-primary  "  href="Eric_Garcia_Ordonez.vcf" title="descarrega la meva targeta vCard" ><span class="glyphicon glyphicon-download"></span> vCard</a>
 

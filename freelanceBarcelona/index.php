@@ -49,6 +49,7 @@
         <link rel="icon" href="../assets/ico/favicon.png" type="image/png" />
         <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <meta name="google-site-verification" content="NWr1EbkYX8RpF0wuK5gEVYiXDfpkO3oIh0MmKHPkY3U" />
+		<script>var v1 = "info";var v2 = "@";var v3 = "webyo.es";var mail = v1 + v2 + v3;</script>
     </head>
 <body data-spy="scroll" data-target="#main-nav">
     <!-- WRAPPER -->
@@ -70,7 +71,7 @@
                 <!-- navigation links -->
                 <div class="collapse navbar-collapse main-nav-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="../assets/img/cat.png" alt="Castellano">CATALÀ</a></li>
+                        <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="../assets/img/cat.png" alt="català">CATALÀ</a></li>
                         <li><a href="http://webyo.es/en/cv/eric/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'English']);"><img height="25" src="../assets/img/en.png" alt="Castellano">ENGLISH</a></li>
                         <li><a href="#presentacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'presentacion']);">PRESENTACIÓN</a></li>
                         <li><a href="#formacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'formacion']);">FORMACIÓN</a></li>
@@ -162,7 +163,7 @@
                         <p>Marie Curie, s/n, 08042 Barcelona, <strong>Barcelona</strong></p>
                         <a class="btn btn-primary  "  href="tel:+34656828020" target="_blank"  ><span class="glyphicon glyphicon-earphone"></span> +34 656 828 020</a>
 
-                        <a class="btn btn-primary  "  href="mailto:eric@webyo.es" title="email"  ><i class="glyphicon glyphicon-envelope"></i>  eric@webyo.es</a>
+						<script>document.write('<a class="btn btn-primary  "  href="mailto:'+mail+'" title="email"  ><i class="glyphicon glyphicon-envelope"></i>'+mail+'</a>');</script>
 
                         <a class="btn btn-primary  "  href="/Eric_Garcia_Ordonez.vcf" title="descarrega la meva targeta vCard" ><span class="glyphicon glyphicon-download"></span> vCard</a>
 
