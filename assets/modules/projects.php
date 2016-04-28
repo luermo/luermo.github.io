@@ -7,6 +7,42 @@
             <ul class="project-grid project-effect-shrink">
                 <li class="col-md-6">
                     <figure>
+                        <img src="../assets/img/projects/goocampus.png" alt="goCampus"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">gooCampus</h3>
+                                <p></p>
+                                <a href="http://goocampus.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/e-testament.png" alt="e-testament"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">e-testament</h3>
+                                <p></p>
+                                <a href="http://etestament.cat/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/sernino.png" alt="sernino"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">SerNiño</h3>
+                                <p>Plataforma de contratación de professionales para niños.</p>
+                                <a href="http://www.serniño.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
                         <img src="../assets/img/projects/smartConf.jpg" alt="smartconf"/>
                         <figcaption>
                             <div class="project-item-info">
@@ -29,8 +65,6 @@
                         </figcaption>
                     </figure>
                 </li>
-            </ul>   
-            <ul class="project-grid project-effect-shrink">
 
                 <li class="col-md-6">
                     <figure>
@@ -56,11 +90,6 @@
                         </figcaption>
                     </figure>
                 </li>
-
-            </ul>   
-            <ul class="project-grid project-effect-shrink">
-
-
                 <li class="col-md-6">
                     <figure>
                         <img src="../assets/img/projects/segwaygreentour.jpg" alt="segwaygreentour"/>
@@ -85,21 +114,6 @@
                         </figcaption>
                     </figure>
                 </li>
-            </ul>
-            <ul class="project-grid project-effect-shrink">
-                <li class="col-md-6">
-                    <figure>
-                        <img src="../assets/img/projects/yourcoded.png" alt="yourcoded"/>
-                        <figcaption>
-                            <div class="project-item-info">
-                                <h3 class="sub-heading">yourcoded.com</h3>
-                                <p>Servicio de generación de códigos QR para productos de consumo</p>
-                                <a href="http://www.yourcoded.com" target="_blank" class="btn btn-default">Visitar proyecto</a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </li>
-
                 <li class="col-md-6">
                     <figure>
                         <img src="../assets/img/projects/paypost.jpg" alt="paypost"/>
@@ -112,23 +126,30 @@
                         </figcaption>
                     </figure>
                 </li>
-            </ul>	
-
-            <ul class="project-grid project-effect-shrink">
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/getmeadvice.png" alt="getmeadvice"/>
+                        <img src="../assets/img/projects/yourcoded.png" alt="yourcoded"/>
                         <figcaption>
                             <div class="project-item-info">
-                                <h3 class="sub-heading">Get Me Advice</h3>
-                                <p>Resuelva sus consultas contactando con los mejores expertos del mercado</p>
-                                <a href="http://webyo.es/getmeadvice/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <h3 class="sub-heading">yourcoded.com</h3>
+                                <p>Servicio de generación de códigos QR para productos de consumo</p>
+                                <a href="http://www.yourcoded.com" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>
                 </li>
-
-
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/bit4services.jpg" alt="bit4services"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">bit4services</h3>
+                                <p>Entorno de demostración de las soluciones de Bit4d</p>
+                                <a href="http://bit4services.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
                 <li class="col-md-6">
                     <figure>
                         <img src="../assets/img/projects/indra.png" alt="indra"/>
@@ -141,17 +162,14 @@
                         </figcaption>
                     </figure>
                 </li>
-            </ul>	
-
-            <ul class="project-grid project-effect-shrink">
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/bit4services.jpg" alt="bit4services"/>
+                        <img src="../assets/img/projects/getmeadvice.png" alt="getmeadvice"/>
                         <figcaption>
                             <div class="project-item-info">
-                                <h3 class="sub-heading">bit4services</h3>
-                                <p>Entorno de demostración de las soluciones de Bit4d</p>
-                                <a href="http://bit4services.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <h3 class="sub-heading">Get Me Advice</h3>
+                                <p>Resuelva sus consultas contactando con los mejores expertos del mercado</p>
+                                <a href="http://webyo.es/getmeadvice/" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>
