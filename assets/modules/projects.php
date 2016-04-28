@@ -31,7 +31,7 @@
                 </li>
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/sernino.png" alt="sernino"/>
+                        <img src="../assets/img/projects/Sernino.png" alt="sernino"/>
                         <figcaption>
                             <div class="project-item-info">
                                 <h3 class="sub-heading">SerNiño</h3>
