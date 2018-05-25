@@ -48,7 +48,7 @@
         <link rel="icon" href="assets/ico/favicon.png" type="image/png" />
         <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
         <meta name="google-site-verification" content="NWr1EbkYX8RpF0wuK5gEVYiXDfpkO3oIh0MmKHPkY3U" />
-		<script>var v1 = "info";var v2 = "@";var v3 = "webyo.es";var mail = v1 + v2 + v3;</script>
+		<script>var v1 = "eric";var v2 = "@";var v3 = "webyo.es";var mail = v1 + v2 + v3;</script>
     </head>
 <body data-spy="scroll" data-target="#main-nav">
     <!-- WRAPPER -->
