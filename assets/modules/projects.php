@@ -31,12 +31,12 @@
                 </li>
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/timeSheetProject.png" alt="TimeSheet"/>
+                        <img src="../assets/img/projects/timeSheet.png" alt="TimeSheet"/>
                         <figcaption>
                             <div class="project-item-info">
-                                <h3 class="sub-heading">TimeCare</h3>
+                                <h3 class="sub-heading">TimeSheet</h3>
                                 <p></p>
-                                <a href="http://goocampus.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <a href="https://www.falck.es/es/vl/" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>
