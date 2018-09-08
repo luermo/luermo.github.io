@@ -6,6 +6,40 @@
                 <div class="panel-heading">
                     <h4 class="panel-title">
                         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionEducation" href="#collapseEducationOne">
+                            <span>MBA & Máster en Dirección Comercial y Marketing</span>
+                            <strong class="pull-right hidden-xs">ENEB - Escuela de Negocios Europea de Barcelona  (2017)</strong>
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapseEducationOne" class="panel-collapse collapse in">
+                    <div class="panel-body">
+                        <img class="pull-right" src="../assets/img/eneb.gif" alt="ENEB">
+                        <ul>
+                            <li>Establecer, gestionar y controlar los elementos financieros clave de la empresa.</li>
+<li>Tener una visión global y, de este modo, promover el pensamiento crítico.</li>
+<li>Conocer todos los departamentos del negocio y desenvolverte hábilmente en ellos.</li>
+<li>Conocer los modelos que favorecen la excelencia en la gestión y las implicaciones de las nuevas formas organizativas así como desarrollar habilidades de organización que ayuden a poner en práctica de manera eficiente nuevas políticas dentro del contexto de la organización.</li>
+<li>Desarrollar habilidades de liderazgo en el trabajo en equipo.</li>
+<li>Valorar e implementar una adecuada gestión de responsabilidad social corporativa.</li>
+<li>Gestionar eficientemente las TIC e implementarlas en el desarrollo de nuestras habilidades.</li>
+<li>Conocer las herramientas estratégicas de comunicación, control, calidad y cambio organizacional.</li>
+<li>Dirección de las campañas comerciales y de marketing.</li>
+<li>Análisis de la competencia y aportar valor añadido a nuestra marca.</li>
+<li>Investigación de mercados y su posterior análisis.</li>
+<li>Creación, gestión y dirección de la comunicación dentro de las campañas de marketing.</li>
+<li>Dirección de iniciativas comerciales y supervisión de las mismas.</li>
+<li>Análisis de los diferentes mercados nacionales e internacionales y adaptar las campañas de marketing a cada territorio.</li>
+                        </ul>
+
+
+                        <div style="text-align:center;" ><a class="btn btn-default" href="https://eneb.es/masters-y-posgrados/mba-_-master-en-direccion-comercial-y-marketing/" target="_blank">Más información</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionEducation" href="#collapseEducationOne">
                             <span>Postgrado IT Governance</span>
                             <strong class="pull-right hidden-xs">UPC School  (2013)</strong>
                         </a>

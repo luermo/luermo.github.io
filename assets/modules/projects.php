@@ -7,7 +7,55 @@
             <ul class="project-grid project-effect-shrink">
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/goocampus.png" alt="goCampus"/>
+                        <img src="../assets/img/projects/gooapps.jpg" alt="Goo Apps"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">Goo Apps</h3>
+                                <p></p>
+                                <a href="http://gooapps.net/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/gooMedical.png" alt="Goo Medical"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">Goo Medical</h3>
+                                <p></p>
+                                <a href="http://goomedical.es/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/timeSheetProject.png" alt="TimeSheet"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">TimeCare</h3>
+                                <p></p>
+                                <a href="http://goocampus.com/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/timecare.png" alt="Timecare"/>
+                        <figcaption>
+                            <div class="project-item-info">
+                                <h3 class="sub-heading">TimeCare</h3>
+                                <p></p>
+                                <a href="http://timecare.es/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                            </div>
+                        </figcaption>
+                    </figure>
+                </li>
+                <li class="col-md-6">
+                    <figure>
+                        <img src="../assets/img/projects/goocampus.png" alt="gooCampus"/>
                         <figcaption>
                             <div class="project-item-info">
                                 <h3 class="sub-heading">gooCampus</h3>
@@ -90,42 +138,7 @@
                         </figcaption>
                     </figure>
                 </li>
-                <li class="col-md-6">
-                    <figure>
-                        <img src="../assets/img/projects/segwaygreentour.jpg" alt="segwaygreentour"/>
-                        <figcaption>
-                            <div class="project-item-info">
-                                <h3 class="sub-heading">segway green tour</h3>
-                                <p>Plataforma para el alquiler y reserva de tours con segwey por catalunya</p>
-                                <a href="http://segway.webyo.es" target="_blank" class="btn btn-default">Visitar proyecto</a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </li>
-                <li class="col-md-6">
-                    <figure>
-                        <img src="../assets/img/projects/upsoci.png" alt="upsoci"/>
-                        <figcaption>
-                            <div class="project-item-info">
-                                <h3 class="sub-heading">World Awaking</h3>
-                                <p>"Historias positivas que vale la pena compartir"</p>
-                                <a href="http://upsoci.webyo.es/" target="_blank" class="btn btn-default">Visitar proyecto</a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </li>
-                <li class="col-md-6">
-                    <figure>
-                        <img src="../assets/img/projects/paypost.jpg" alt="paypost"/>
-                        <figcaption>
-                            <div class="project-item-info">
-                                <h3 class="sub-heading">PayPost</h3>
-                                <p>Gestiona el pago contra reembolso a través del móvil</p>
-                                <a href="http://webyo.es/paypost" target="_blank" class="btn btn-default">Visitar proyecto</a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </li>
+                
                 <li class="col-md-6">
                     <figure>
                         <img src="../assets/img/projects/yourcoded.png" alt="yourcoded"/>
@@ -162,18 +175,7 @@
                         </figcaption>
                     </figure>
                 </li>
-                <li class="col-md-6">
-                    <figure>
-                        <img src="../assets/img/projects/getmeadvice.png" alt="getmeadvice"/>
-                        <figcaption>
-                            <div class="project-item-info">
-                                <h3 class="sub-heading">Get Me Advice</h3>
-                                <p>Resuelva sus consultas contactando con los mejores expertos del mercado</p>
-                                <a href="http://webyo.es/getmeadvice/" target="_blank" class="btn btn-default">Visitar proyecto</a>
-                            </div>
-                        </figcaption>
-                    </figure>
-                </li>
+                
             </ul>
         </div>
     </div>	
