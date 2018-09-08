@@ -2,10 +2,42 @@
     <div class="container">
         <h2 class="heading">EXPERIENCIA</h2>
         <ul class="timeline">
-			<li class="year">2015</li>
+            <li class="year">2017</li>
             <li class="event">
-                <h3 class="heading">Freelance - Programación y Desarrollo de aplicaciones</h3>
-                <span class="month"><i class="icon icon-calendar"></i>WebYo.es</span>
+                <h3 class="heading">Goo Medical - mHealth en estado puro</h3>
+                <span class="month"><i class="icon icon-briefcase"></i>Goo Medical</span>
+                <p>Fundador</p>
+                <p>Aplicaciones propuestas y creadas conjuntamente con organizaciones médicas.</p>
+                <ul>
+		    <li>Consuloría y Desarrollo de aplicaciones móviles para salud.</li>
+                    <li>Seguridad y protección de datos.</li>
+                    <li>Internet of things (IoT) y Wearables.</li>
+                    
+                    <!--<li>PHP - Symfony2</li>
+					<li>LESS, HTML5 CSS3, Bootstrap</li>
+                    <li>J2EE Spring</li>-->
+                </ul>
+            </li>
+            <li class="year">2016</li>
+            <li class="event">
+                <h3 class="heading">Goo Apps - Programación y Desarrollo de aplicaciones móviles</h3>
+                <span class="month"><i class="icon icon-briefcase"></i>Goo Apps</span>
+                <p>CEO y CTO</p>
+                <p>En Goo Apps somos tu proveedor de Applicaciones empresariales para la transformación digital:</p>
+<ul>
+<li>Consultoría, diseño y desarrollo de Apps para iOS y Android.</li>
+</ul>
+<p>Mis tareas son:</p>
+<ul>
+<li>- Desarrollo de negocio y Gestión comercial.</li>
+<li>- Consultoría análisis y gestión de proyectos.
+<li>- Liderar equipos de alto rendimiento.</li>
+                </ul>
+            </li>
+	<li class="year">2013</li>
+            <li class="event">
+                <h3 class="heading">Grupo Freelance - Programación y Desarrollo de aplicaciones</h3>
+                <span class="month"><i class="icon icon-briefcase"></i>WebYo.es</span>
                 <p>CTO - Analista Programador:</p>
                 <ul>
 					<li>Desarrollo de aplicaciones Web</li>
@@ -15,36 +47,10 @@
 					<li>LESS, HTML5 CSS3, Bootstrap</li>
                     <li>J2EE Spring</li>-->
                 </ul>
-            </li>
-            <li class="year">2014</li>
-            <li class="event">
-                <h3 class="heading">CTO - Programador web senior</h3>
-                <span class="month"><i class="icon icon-calendar"></i>Track One Service</span>
-                <p>Como CTO mis principales tareas son:</p>
-                <ul>
-                    <li>Gestión del proyecto de software</li>
-                    <li>Planificación de sistemas de información corporativos</li>
-                    <li>Ingeniería de requisitos</li>
-                    <li>Arquitectura empresarial de IT</li>
-                    <li>Gestión de la seguridad en sistemas de información</li>
-                </ul>
-                <br>
-                <p>Como Senior Software Developer, soy parte del equipo de desarrollo de la aplicación web principal.</p>
-                <figure>
-                    <img src="../assets/img/skills1.png" alt="Skills" />
-                </figure>
-            </li>
-            <li class="event">
-                <h3 class="heading">Programador web</h3>
-                <span class="month"><i class="icon icon-calendar"></i>Segway Green Tour</span>
-                <p>Plataforma para el alquiler y reserva de tours con segwey por catalunya</p>
-                <figure>
-                    <img src="../assets/img/skills1.png" alt="Skills" />
-                </figure>
             </li>	
             <li class="year">2013</li>
             <li class="event">
-                <h3 class="heading">CIO - Senior software developer </h3>
+                <h3 class="heading">CTO - Senior software developer </h3>
                 <span class="month"><i class="icon icon-calendar"></i>Yourcoded</span>
                 <p>Como CIO mis principales tareas son:</p>
                 <ul>
