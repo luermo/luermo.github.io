@@ -111,7 +111,7 @@
                 <h2 class="heading">PRESENTACIÓN</h2>
                 <p>Tengo una larga carrera y experiencia en la programación de aplicaciones. Con una visión de negocio me gusta trabajar mano a mano con <strong>PYMES</strong> y <strong>Grandes empresas</strong>, aportando mis conocimientos para obtener el éxito tecnológico gracias a metodologías <strong>ágiles</strong> y <strong>Lean</strong>.</p>
                 <p>Las metodologías <strong>agile</strong> y <strong>lean</strong> se focalizan en aportar valor al usuario final y el cliente, también minimizan riesgos desarrollando software en lapsos cortos de tiempo.</p>
-                <p>Experto en la creació de equipos de alto rendimiento lidero la empresa <strong>Goo Apps especializada en la creación de Aplicaciones móviles empresariales</strong>, así como contar Goo Medical especializado en <strong>mHealth</strong>.</p>
+                <p>Experto en la creació de equipos de alto rendimiento lidero la empresa <strong>Goo Apps especializada en la creación de Aplicaciones móviles empresariales</strong>, así como Goo Medical especializado en <strong>mHealth</strong>.</p>
                 <div class="row interest">
                     <div class="col-md-3">
                         <h3 class="sub-heading"><span class="glyphicon glyphicon-dashboard"></span> Agile y Lean</h3>
@@ -127,7 +127,7 @@
                     </div>
                     <div class="col-md-3">
                         <h3 class="sub-heading"><span class="glyphicon glyphicon-comment"></span> Hablemos</h3>
-                        <p>Me gusta conocer <strong>emprenedores</strong> y <strong>Startups </strong> con buenas ideas o proyectos donde podamos compartir conocimientos y aprender. Así que si te parece bien contacta conmigo y te explicaré cómo puedo ayudarte.</p>
+                        <p>Me gusta conocer <strong>Empresas</strong> y <strong>Startups </strong> con buenas ideas o proyectos donde podamos compartir conocimientos y aprender. Así que si te parece bien contacta conmigo y te explicaré cómo puedo ayudarte.</p>
                     </div>
                 </div>
                 <!--<div class="social">
