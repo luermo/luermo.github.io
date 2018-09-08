@@ -11,7 +11,7 @@
                         </a>
                     </h4>
                 </div>
-                <div id="collapseEducationOne" class="panel-collapse collapse in">
+                <div id="collapseEducationOne" class="panel-collapse collapse ">
                     <div class="panel-body">
                         <img class="pull-right" src="../assets/img/eneb.gif" alt="ENEB">
                         <ul>
