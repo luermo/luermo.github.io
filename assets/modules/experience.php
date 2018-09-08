@@ -17,9 +17,12 @@
 					<li>LESS, HTML5 CSS3, Bootstrap</li>
                     <li>J2EE Spring</li>-->
                 </ul>
+                <figure>
+                    <img src="../assets/img/GooMedicalBlack.png" alt="Goo Medical" />
+                </figure>
             </li>
             <li class="event">
-                <h3 class="heading">Goo Apps - Programación y Desarrollo de aplicaciones móviles</h3>
+                <h3 class="heading">Goo Apps - Your App Engine Maker</h3>
                 <span class="month"><i class="icon icon-briefcase"></i>Goo Apps</span>
                 <p>CEO y CTO</p>
                 <p>En Goo Apps somos tu proveedor de Applicaciones empresariales para la transformación digital:</p>
@@ -32,6 +35,9 @@
 <li>- Consultoría análisis y gestión de proyectos.
 <li>- Liderar equipos de alto rendimiento.</li>
                 </ul>
+<figure>
+                    <img src="../assets/img/gooapps.png" alt="Goo Apps" />
+                </figure>
             </li>
 	<li class="year">2013</li>
             <li class="event">
@@ -46,6 +52,9 @@
 					<li>LESS, HTML5 CSS3, Bootstrap</li>
                     <li>J2EE Spring</li>-->
                 </ul>
+                <figure>
+                    <img src="../assets/img/skills1.png" alt="Skills" />
+                </figure>
             </li>	
             <li class="year">2012</li>
             <li class="event">
