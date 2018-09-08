@@ -13,7 +13,7 @@
                 </div>
                 <div id="collapseEducationOne" class="panel-collapse collapse ">
                     <div class="panel-body">
-                        <img class="pull-right" src="../assets/img/eneb.gif" alt="ENEB">
+                        <img class="pull-right" src="../assets/img/eneb.png" alt="ENEB">
                         <ul>
                             <li>Establecer, gestionar y controlar los elementos financieros clave de la empresa.</li>
 <li>Tener una visión global y, de este modo, promover el pensamiento crítico.</li>
