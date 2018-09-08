@@ -56,7 +56,6 @@
                     <img src="../assets/img/skills1.png" alt="Skills" />
                 </figure>
             </li>	
-            <li class="year">2012</li>
             <li class="event">
                 <h3 class="heading">CTO - Senior software developer </h3>
                 <span class="month"><i class="icon icon-calendar"></i>Yourcoded</span>
