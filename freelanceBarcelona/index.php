@@ -94,7 +94,7 @@
                     <div class="col-md-7 ">
                         <h1 class="hide">Programador Freelance de aplicaciones móviles, iOS y Android</h1>
                         <p class="heading"><i class="fa fa-quote-left"></i> Mi meta es crear éxito <i class="fa fa-quote-right"></i></p>
-                        <p>Hola, soy Eric García<br>Desarrollo de aplicaciones móviles B2B para empresas</p>
+                        <p>Hola, soy Eric García<br>Programación de apps móviles B2B para empresas</p>
                         <a href="#presentacion" class="btn btn-default btn-lg">Leer más</a><a href="#contacto" class="btn btn-primary btn-lg">Contacta conmigo</a>
                     </div>
 

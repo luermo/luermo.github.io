@@ -92,7 +92,7 @@
                     <div class="col-md-7 ">
                         <h1 class="hide">Programador d'apps iOS i Android per empreses </h1>
                         <p class="heading"><i class="fa fa-quote-left"></i> El meobjectiu a és crear l'èxit <i class="fa fa-quote-right"></i></p>
-                        <h2>Hola, sóc Eric <br> Un programador d'aplicacions per a Empreses i startups</p>
+                        <h2>Hola, sóc Eric <br> Programador d'Apps mòbils per a Empreses i startups</p>
                             <a href="#presentacio" class="btn btn-default btn-lg">Llegir més</a><a href="#contacte" class="btn btn-primary btn-lg">Contacta amb mi</a>
                     </div>
 
