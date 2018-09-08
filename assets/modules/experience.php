@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="heading">EXPERIENCIA</h2>
         <ul class="timeline">
-            <li class="year">2017</li>
+            <li class="year">2018</li>
             <li class="event">
                 <h3 class="heading">Goo Medical - mHealth en estado puro</h3>
                 <span class="month"><i class="icon icon-briefcase"></i>Goo Medical</span>
@@ -18,7 +18,6 @@
                     <li>J2EE Spring</li>-->
                 </ul>
             </li>
-            <li class="year">2016</li>
             <li class="event">
                 <h3 class="heading">Goo Apps - Programación y Desarrollo de aplicaciones móviles</h3>
                 <span class="month"><i class="icon icon-briefcase"></i>Goo Apps</span>
@@ -48,7 +47,7 @@
                     <li>J2EE Spring</li>-->
                 </ul>
             </li>	
-            <li class="year">2013</li>
+            <li class="year">2012</li>
             <li class="event">
                 <h3 class="heading">CTO - Senior software developer </h3>
                 <span class="month"><i class="icon icon-calendar"></i>Yourcoded</span>
@@ -100,15 +99,6 @@
                 </figure>	
             </li>
 
-            <li class="year">2008</li>
-            <li class="event">
-                <h3 class="heading">Una poco más</h3>
-                <span class="month"><i class="icon icon-home"></i>Sony, Linak Actuadores ...</span>
-                <ul>
-                    <li>Administración y Logística</li>
-                    <li>Responsable de Logística</li>
-                    <li>...</li>
-                </ul>
-            </li>
+            <li class="year">2006</li>
     </div>
 </section>
