@@ -173,11 +173,7 @@
             </div>
 
         </section>
-        <!-- end contacts -->
-        <div class="google-map">
-            <div class="map-canvas"></div>
-        </div>-->
-        <!-- footer -->
+        
         <footer class="footer">
             <p>Copyright 2013 <a href="http://www.GooApps.es" style="color: white"> GooApps.es </a> All Rights Reserved.</p>
         </footer>
