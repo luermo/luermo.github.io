@@ -31,12 +31,12 @@
                 </li>
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/timeSheet.png" alt="TimeSheet"/>
+                        <img src="../assets/img/projects/goocheckDevices.png" alt="Goo Check"/>
                         <figcaption>
                             <div class="project-item-info">
-                                <h3 class="sub-heading">TimeSheet</h3>
+                                <h3 class="sub-heading">Goo Check</h3>
                                 <p></p>
-                                <a href="https://www.falck.es/es/vl/" target="_blank" class="btn btn-default">Visitar proyecto</a>
+                                <a href="http://goocheck.es/" target="_blank" class="btn btn-default">Visitar proyecto</a>
                             </div>
                         </figcaption>
                     </figure>
