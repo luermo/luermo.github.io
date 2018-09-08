@@ -2,16 +2,16 @@
 <html lang="es">
     <head>
         <meta charset="utf-8">
-        <title>Eric | Desarrollador Freelance</title>
+        <title>Programador Freelance de Apps iOS y Android en Barcelona</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para empresas y emprendedores aplicando metodologías Lean y Agile.">
+        <meta name="description" content="Hola, soy Eric Garcia, ubicado en Barcelona ofrezco programación freelance para aplicaciones móviles iOS y Android aplicando metodologías Lean y Agile">
         <meta name="author" content="webyo">
         <meta name="keywords" content="programador,freelance ,programación ,web , agile, lean, barcelona, Diseño, Marketing online, aplicaciones, Web, Movile, Apps, ios, android,aplicaciones nativas, barcelona y alrededores, bootstrap, php, symfony2, jquery">
         <meta name="google-site-verification" content="5_0j79Ns8bE4_3rznqhSGF0e4m3r3JzERMXhJjiUmM0" />
 <meta name="google-site-verification" content="3NIdMgSlOlL_ynJd15C-AEMuC62etXwZOVK5LLOpyjc" />
         <!-- facebookmetas -->
-        <meta property="og:title" content="Programador Freelance para empresas y emprendedores">
-        <meta property="og:description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para empresas y emprendedores aplicando metodologías Lean y Agile">
+        <meta property="og:title" content="Programador Freelance de Apps iOS y Android en Barcelona">
+        <meta property="og:description" content="Hola, soy Eric Garcia, ubicado en Barcelona ofrezco programación freelance para aplicaciones móviles iOS y Android aplicando metodologías Lean y Agile">
         <meta property="og:type" content="website">
         <meta property="og:url" content="http://freelancedeveloperbarcelona.com/">
         <meta property="og:image" content="http://freelancedeveloperbarcelona.com/assets/img/profile-picture.png">
@@ -22,8 +22,8 @@
         <meta name="country" content="Spain">
 
         <!-- Google+ -->
-        <meta itemprop="name" content="Programador Freelance para emprenededores y Startups">
-        <meta itemprop="description" content="Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para emprendedores y Startups aplicando metodologías Lean y Agile">
+        <meta itemprop="name" content="Programador Freelance de Apps iOS y Android en Barcelona">
+        <meta itemprop="description" content="Hola, soy Eric Garcia, ubicado en Barcelona ofrezco programación freelance para aplicaciones móviles iOS y Android aplicando metodologías Lean y Agile">
         <meta itemprop="image"
               content="http://freelancedeveloper.es/assets/img/profile-picture.jpg">
         <link rel="author" href="https://plus.google.com/107839398563835088830"/>
@@ -71,8 +71,8 @@
                 <!-- navigation links -->
                 <div class="collapse navbar-collapse main-nav-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="../assets/img/cat.png" alt="català">CATALÀ</a></li>
-                        <li><a href="http://webyo.es/en/cv/eric/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'English']);"><img height="25" src="../assets/img/en.png" alt="Castellano">ENGLISH</a></li>
+                        <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="assets/img/cat.png" alt="Castellano">CATALÀ</a></li>
+                        <!--<li><a href="http://webyo.es/en/cv/eric/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'English']);"><img height="25" src="assets/img/en.png" alt="Castellano">ENGLISH</a></li>-->
                         <li><a href="#presentacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'presentacion']);">PRESENTACIÓN</a></li>
                         <li><a href="#formacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'formacion']);">FORMACIÓN</a></li>
                         <li><a href="#proyectos" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'proyectos']);">PROYECTOS</a></li>
@@ -92,9 +92,9 @@
                         <img src="../assets/img/profile-picture.png" class="img-circle img-responsive" alt="Profile Picture" />
                     </div>
                     <div class="col-md-7 ">
-                        <h1 class="hide">Eric | Programador Freelance Barcelona</h1>
+                        <h1 class="hide">Programador Freelance de aplicaciones móviles, iOS y Android</h1>
                         <p class="heading"><i class="fa fa-quote-left"></i> Mi meta es crear éxito <i class="fa fa-quote-right"></i></p>
-                        <p>Hola, soy Eric <br>Un programador de aplicaciones para empresas, startups y emprendedores</p>
+                        <p>Hola, soy Eric García<br>Desarrollo de aplicaciones móviles B2B para empresas</p>
                         <a href="#presentacion" class="btn btn-default btn-lg">Leer más</a><a href="#contacto" class="btn btn-primary btn-lg">Contacta conmigo</a>
                     </div>
 
@@ -109,10 +109,9 @@
         <section class="section about-me" id="presentacion">
             <div class="container">
                 <h2 class="heading">PRESENTACIÓN</h2>
-                <p>Hola, soy Eric, ubicado en Barcelona ofrezco programación freelance para empresas y emprendedores aplicando metodologías Lean y Agile</p>
-                <p>Tengo una larga carrera y experiencia en la programación de aplicaciones web. Con una visión de negocio me gusta trabajar mano a mano con <strong>emprendedores</strong> y <strong>Startups</strong> aportando mis conocimientos para obtener el éxito tecnológico gracias a metodologías <strong>ágiles</strong> y <strong>Lean</strong>.</p>
+                <p>Tengo una larga carrera y experiencia en la programación de aplicaciones. Con una visión de negocio me gusta trabajar mano a mano con <strong>PYMES</strong> y <strong>Grandes empresas</strong>, aportando mis conocimientos para obtener el éxito tecnológico gracias a metodologías <strong>ágiles</strong> y <strong>Lean</strong>.</p>
                 <p>Las metodologías <strong>agile</strong> y <strong>lean</strong> se focalizan en aportar valor al usuario final y el cliente, también minimizan riesgos desarrollando software en lapsos cortos de tiempo.</p>
-                <p>Por lo tanto el cliente decide el momento óptimo para realizar un lanzamiento de la aplicación (beta o no) que nos permitirá empezar a obtener feedback, validar hipótesis y aplicar métricas. De ahí el término <strong>Startups</strong> que lo defino como empresas con gran capacidad de cambio.</p>
+                <p>Experto en la creació de equipos de alto rendimiento lidero la empresa <strong>Goo Apps especializada en la creación de Aplicaciones móviles empresariales</strong>, así como contar Goo Medical especializado en <strong>mHealth</strong>.</p>
                 <div class="row interest">
                     <div class="col-md-3">
                         <h3 class="sub-heading"><span class="glyphicon glyphicon-dashboard"></span> Agile y Lean</h3>
@@ -153,19 +152,18 @@
         <section class="section contacts" id="contacto">
             <div class="container">
                 <h2 class="heading">CONTACTO</h2>
-                <p>Me gusta conocer <strong>emprendedores</strong> y <strong>Startups </strong>con buenas ideas o proyectos donde podamos compartir conocimientos y aprender. Así que si te parece bien contacta conmigo y te explicaré cómo puedo ayudarte.</p>
+                <p>Me gusta conocer nuevas ideas y proyectos de transformación tecnológica donde podamos compartir conocimientos y mejorar juntos. Contacta conmigo y te explicaré cómo puedo ayudarte.</p>
 
                 <div class="row contact-address">
                     <div class="well col-md-12">
                         <h3><span class="glyphicon glyphicon-user"></span> Eric Garcia Ordoñez</h3>
-                        <h4>Programador Freelance</h4>
-                        <p>Parque Tecnológico Barcelona Nord</p>
-                        <p>Marie Curie, s/n, 08042 Barcelona, <strong>Barcelona</strong></p>
+                        <h4>Consultoría, análisis, diseño y desarrollo de aplicaciones móviles para empresas.</h4>
+                        <p>Goo Apps</p>
+                        <p>Avinguda del Portal de l'Àngel, 36
+                        <strong>08002, Barcelona</strong></p>
                         <a class="btn btn-primary  "  href="tel:+34656828020" target="_blank"  ><span class="glyphicon glyphicon-earphone"></span> +34 656 828 020</a>
 
 						<script>document.write('<a class="btn btn-primary  "  href="mailto:'+mail+'" title="email"  ><i class="glyphicon glyphicon-envelope"></i>'+mail+'</a>');</script>
-
-                        <a class="btn btn-primary  "  href="/Eric_Garcia_Ordonez.vcf" title="descarrega la meva targeta vCard" ><span class="glyphicon glyphicon-download"></span> vCard</a>
 
                         <a class="btn btn-primary  "  href="http://es.linkedin.com/pub/eric-garcia-ordo%C3%B1ez/35/6a2/b93/en" title="Perfil de Linkedin" ><span class="glyphicon glyphicon-user"></span> Linkedin profile</a>
 
@@ -173,30 +171,29 @@
                     </div>
                 </div>
             </div>
+
         </section>
         <!-- end contacts -->
         <div class="google-map">
             <div class="map-canvas"></div>
-        </div>
+        </div>-->
         <!-- footer -->
         <footer class="footer">
-            <p>Copyright 2013 <a href="http://www.webyo.es" style="color: white"> WebYo.es </a> All Rights Reserved.</p>
+            <p>Copyright 2013 <a href="http://www.GooApps.es" style="color: white"> GooApps.es </a> All Rights Reserved.</p>
         </footer>
         <!-- end footer -->
-
     </div>
-
     <!-- END WRAPPER -->
 
     <!-- Javascript -->
-    <script type="text/javascript" src="../assets/js/jquery-1.7.2.min.js"></script>
-    <script type="text/javascript" src="../assets/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="../assets/js/modernizr.js"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-    <script type="text/javascript" src="../assets/js/jquery.ui.map.full.min.js?ver=3.0"></script>
-    <script type="text/javascript" src="../assets/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-    <script type="text/javascript" src="../assets/js/jquery.localscroll-1.2.7-min.js"></script>	
-    <script type="text/javascript" src="../assets/js/mapsBCN.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/js/modernizr.js"></script>
+    <!--<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <script type="text/javascript" src="assets/js/jquery.ui.map.full.min.js?ver=3.0"></script>-->
+    <script type="text/javascript" src="assets/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.localscroll-1.2.7-min.js"></script>	
+    <!--<script type="text/javascript" src="assets/js/mapsManresa.js"></script>-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -207,8 +204,6 @@
   ga('send', 'pageview');
 
 </script>
-
-    </script>
     <!--Start of Zopim Live Chat Script-->
     <script type="text/javascript">
         window.$zopim || (function (d, s) {
