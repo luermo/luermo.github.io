@@ -117,7 +117,7 @@
                         
                     </div>
                     <div class="col-md-3">
-                        <h3 class="sub-heading"><span class="glyphicon glyphicon-globe"></span> Programación escalable</h3>
+                        <h3 class="sub-heading"><span class="glyphicon glyphicon-globe"></span> Apps escalables</h3>
                         
                     </div>
                     <div class="col-md-3">
@@ -125,7 +125,7 @@
                         
                     </div>
                     <div class="col-md-3">
-                        <h3 class="sub-heading"><span class="glyphicon glyphicon-comment"></span> Hablemos de transformación digital</h3>
+                        <h3 class="sub-heading"><span class="glyphicon glyphicon-comment"></span> Transformación digital</h3>
                         
                     </div>
                 </div>
