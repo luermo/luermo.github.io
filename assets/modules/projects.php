@@ -30,6 +30,7 @@
                     </figure>
                 </li>
                 <li class="col-md-6">
+                    
                     <figure>
                         <img src="../assets/img/projects/goocheckDevices.png" alt="Goo Check"/>
                         <figcaption>
