@@ -123,7 +123,7 @@
                     </div>
                     <div class="col-md-3">
                         <h3 class="sub-heading"><span class="glyphicon glyphicon-road"></span> Lenguajes de programación y frameworks</h3>
-                        <p>Estoy especializado en la programación en PHP y J2EE. Y no vuelvo a inventar la rueda, por lo tanto trabajo con diversidad de frameworks como Symfony2, Doctrine, Bootstrap, Spring MVC, Hibernate, Primefaces ...</p>
+                        <p>Especializado en desarrollo para iOS y Android, ya sea en Nativo o a través de plataformas híbridas como iOnic o React Native.</p>
                     </div>
                     <div class="col-md-3">
                         <h3 class="sub-heading"><span class="glyphicon glyphicon-comment"></span> Hablemos</h3>
