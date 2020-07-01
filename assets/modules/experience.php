@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="heading">EXPERIENCIA</h2>
         <ul class="timeline">
-            <li class="year">2018</li>
+            <li class="year">2020</li>
             <li class="event">
                 <h3 class="heading">Goo Medical - mHealth en estado puro</h3>
                 <span class="month"><i class="icon icon-briefcase"></i>Goo Medical</span>

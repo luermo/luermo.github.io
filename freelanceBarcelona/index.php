@@ -94,7 +94,7 @@
             <!-- navigation links -->
             <div class="collapse navbar-collapse main-nav-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="assets/img/cat.png" alt="Castellano">CATALÀ</a></li>
+                    <li><a href="http://programadorfreelance.cat/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'Català']);"><img height="25" src="../assets/img/cat.png" alt="Castellano">CATALÀ</a></li>
                     <!--<li><a href="http://webyo.es/en/cv/eric/" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'English']);"><img height="25" src="assets/img/en.png" alt="Castellano">ENGLISH</a></li>-->
                     <li><a href="#presentacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'presentacion']);">PRESENTACIÓN</a></li>
                     <li><a href="#formacion" onClick="_gaq.push(['_trackEvent', 'Menu', 'click', 'formacion']);">FORMACIÓN</a></li>
