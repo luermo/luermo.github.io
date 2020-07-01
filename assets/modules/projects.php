@@ -103,7 +103,7 @@
                 </li>
                 <li class="col-md-6">
                     <figure>
-                        <img src="../assets/img/projects/smartConf2.jpg" alt="smartconf"/>
+                        <img src="../assets/img/projects/smartconf2.jpg" alt="smartconf"/>
                         <figcaption>
                             <div class="project-item-info">
                                 <h3 class="sub-heading">SmartConf.</h3>
